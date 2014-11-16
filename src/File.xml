@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLV>
+<personnes>
+<client>
+<nom>toto</nom>
+<prenom>toto</prenom>
+<adresse_postal>toto</adresse_postal>
+<adresse_mel>toto</adresse_mel>
+<mdp>toto</mdp>
+</client>
+
+</personnes>
+
+<items>
+<objet>
+<propritaire>mehdi</propritaire>
+<titre>objet mehdi</titre>
+<categorie>vehicule</categorie>
+<couleur>objet mehdi</couleur>
+<dimension>objet mehdi</dimension>
+<echange>Bonjour c'est modifier</echange>
+<contre>objet mehdi</contre>
+<zone>Alsace</zone>
+<numero>objet mehdi</numero>
+<url>image1.jpg</url>
+</objet>
+
+</items>
+</XMLV>
+

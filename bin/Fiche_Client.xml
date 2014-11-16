@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+<client>
+<nom>toto</nom>
+<prenom>toto</prenom>
+<adresse_postal>toto</adresse_postal>
+<adresse_mel>toto</adresse_mel>
+<mdp>toto</mdp>
+</client>
+
+
+<client>
+<nom>lahcen</nom>
+<prenom>chebbab</prenom>
+<adresse_postal>9 boulvard verd Marseille 13013</adresse_postal>
+<adresse_mel>lchebbab@gmail.com</adresse_mel>
+<mdp>chebbabmrd</mdp>
+</client>
+
+
+<client>
+<nom>tarik</nom>
+<prenom>samir</prenom>
+<adresse_postal>marseille 13001</adresse_postal>
+<adresse_mel>tarik@yahoo.fr</adresse_mel>
+<mdp>chebbab</mdp>
+</client>
+
+
+<client>
+<nom>zaid</nom>
+<prenom>zakaria</prenom>
+<adresse_postal>marseille</adresse_postal>
+<adresse_mel>lchebbab</adresse_mel>
+<mdp>toto</mdp>
+</client>
+
+
+<client>
+<nom>bah</nom>
+<prenom>saikou</prenom>
+<adresse_postal>iiiii</adresse_postal>
+<adresse_mel>b@yahoo.fr</adresse_mel>
+<mdp>aaa</mdp>
+</client>
+
+
+<client>
+<nom>geek</nom>
+<prenom>saikou</prenom>
+<adresse_postal>12 bd moulain</adresse_postal>
+<adresse_mel>geek@yahoo.fr</adresse_mel>
+<mdp>aaa</mdp>
+</client>
+</personnes>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><annuaire>
+<!--Commentaire sous la racine-->
+<personne id="0">
+<nom>un nom</nom>
+<prenom>un prénom</prenom>
+<adresse>une adresse</adresse>
+</personne>
+</annuaire>
